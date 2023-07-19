@@ -77,7 +77,7 @@ dfMonitoring['Date'] = datetime.today().strftime("%Y-%m-%d")
 dfMonitoring.to_csv("data/Sharedmobility_Providers.csv", header=False, index=False, mode='a')
 
 #Visualisierung
-df = pd.read_csv("Sharedmobility_Providers.csv", parse_dates=['Date'])
+df = pd.read_csv("data/Sharedmobility_Providers.csv", parse_dates=['Date'])
 df = df.fillna(0)
 
 # LineChart mit Anzahl Fahrzeugen und Anzahl Stationen
