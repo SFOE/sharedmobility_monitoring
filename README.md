@@ -33,4 +33,4 @@ Monitoring of all published GBFS feeds on www.sharedmobility.ch
 ![image](plots/share_birrer_ch.png)
 ![image](plots/sponticar.png)
 ![image](plots/velospot.png)
-![image](https://github.com/nrohrbach/sharedmobility_monitoring/assets/52918447/565b2f55-928a-43ea-b4bb-5d760ad2c96f)
+
