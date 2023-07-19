@@ -1,4 +1,4 @@
-name: sharedmobility.ch_monitoring_providers
+name: sharedmobilitych_monitoring_providers
 channels:
   - conda-forge
 dependencies:
