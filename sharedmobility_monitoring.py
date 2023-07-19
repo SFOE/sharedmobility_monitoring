@@ -81,15 +81,16 @@ df = pd.read_csv("data/Sharedmobility_Providers.csv", parse_dates=['Date'])
 df = df.fillna(0)
 
 # LineChart mit Anzahl Fahrzeugen und Anzahl Stationen
-providers = ['2em_cars','mobility']
 
 for provider in providers:
-
-  df_provider = df[df['Provider']==provider]
-  df_provider = df_provider.pivot(index="Date", columns=["Provider"], values=['NumberOfStations','VehiclesInStation','NumberOfFreeBikes'])
-  df_provider.plot(figsize=(15,10))
-  plt.legend(loc='best')
-  plt.title("Anzahl Fahrzeuge und Stationen: "+ provider)
-  plt.savefig('plots/' + provider + '.png')
-  plt.close()
+  try:
+    df_provider = df[df['Provider']==provider]
+    df_provider = df_provider.pivot(index="Date", columns=["Provider"], values=['NumberOfStations','VehiclesInStation','NumberOfFreeBikes'])
+    df_provider.plot(figsize=(15,10))
+    plt.legend(loc='best')
+    plt.title("Anzahl Fahrzeuge und Stationen: "+ provider)
+    plt.savefig('plots/' + provider + '.png')
+    plt.close()
+  except:
+    plt.savefig('plots/' + provider + '.png')
 
