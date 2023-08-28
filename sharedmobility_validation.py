@@ -27,9 +27,6 @@ url = [s['url'] for s in feeds['systems']]
 gbfsfeeds = pd.DataFrame(list(zip(id, url)),columns =['provider', 'gbfsurl'])
 providers = list(gbfsfeeds['provider'])
 
-# Nur einen Provider temporär einstellen!
-providers = ['bolt_zurich','velospot','carvelo2go','bird-biel']
-
 # Validieren!
 JsonResponse = []
 
@@ -84,7 +81,7 @@ ValidationResults['Date'] = ValidationDate
 
 # Save as CSV
 ValidationResults = ValidationResults.drop(columns=['files','summary.validatorVersion','summary.version.detected'])
-ValidationResults.to_csv("data/GBFS_validated.csv",header=True,index=False, mode='a')
+ValidationResults.to_csv("data/GBFS_validated.csv",header=False,index=False, mode='a')
 
 """# Create Statusbadges für Übersicht auf Github"""
 
