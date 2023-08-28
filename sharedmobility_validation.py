@@ -84,7 +84,7 @@ ValidationResults['Date'] = ValidationDate
 
 # Save as CSV
 ValidationResults = ValidationResults.drop(columns=['files','summary.validatorVersion','summary.version.detected'])
-ValidationResults.to_csv("GBFS_validated.csv",header=True,index=False, mode='a')
+ValidationResults.to_csv("data/GBFS_validated.csv",header=True,index=False, mode='a')
 
 """# Create Statusbadges für Übersicht auf Github"""
 
