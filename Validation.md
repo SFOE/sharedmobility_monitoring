@@ -9,7 +9,7 @@
 - [![Dokumentation](https://badgen.net/badge/pickebike_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_neuchatel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_neuchatel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_uster/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_uster/gbfs)
-- [![Dokumentation](https://badgen.net/badge/nextbike_ch/298.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs)
+- [![Dokumentation](https://badgen.net/badge/nextbike_ch/300.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_basel/nan%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_wetzikon/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_wetzikon/gbfs)
@@ -22,7 +22,7 @@
 - [![Dokumentation](https://badgen.net/badge/donkey_le_locle/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_le_locle/gbfs)
 - [![Dokumentation](https://badgen.net/badge/share_birrer_ch/5.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/share_birrer_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_yverdon-les-bains/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_yverdon-les-bains/gbfs)
-- [![Dokumentation](https://badgen.net/badge/velospot/14.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs)
+- [![Dokumentation](https://badgen.net/badge/velospot/12.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs)
 - [![Dokumentation](https://badgen.net/badge/2em_cars/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs)
 - [![Dokumentation](https://badgen.net/badge/mobility/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/mobility/gbfs)
 - [![Dokumentation](https://badgen.net/badge/edrivecarsharing/1.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/edrivecarsharing/gbfs)
@@ -32,5 +32,6 @@
 - [![Dokumentation](https://badgen.net/badge/donkey_thun/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_thun/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bird-grenchen/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-grenchen/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bird-biel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-biel/gbfs)
+- [![Dokumentation](https://badgen.net/badge/bolt_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_basel/gbfs)
  
-Last Update: 2023-08-28 12:01
+Last Update: 2023-08-29 08:29
