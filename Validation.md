@@ -11,9 +11,9 @@
 - [![Dokumentation](https://badgen.net/badge/lime_uster/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_uster/gbfs)
 - [![Dokumentation](https://badgen.net/badge/nextbike_ch/297.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs)
-- [![Dokumentation](https://badgen.net/badge/lime_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_basel/gbfs)
+- [![Dokumentation](https://badgen.net/badge/lime_basel/nan%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_wetzikon/1.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_wetzikon/gbfs)
-- [![Dokumentation](https://badgen.net/badge/bird-basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs)
+- [![Dokumentation](https://badgen.net/badge/bird-basel/nan%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_kreuzlingen/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_kreuzlingen/gbfs)
 - [![Dokumentation](https://badgen.net/badge/pickebike_fribourg/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_fribourg/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_ge/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_ge/gbfs)
@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-biel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-biel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bolt_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_basel/gbfs)
  
-Last Update: 2023-08-31 08:27
+Last Update: 2023-09-01 08:29
