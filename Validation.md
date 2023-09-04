@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-biel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-biel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bolt_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_basel/gbfs)
  
-Last Update: 2023-09-03 08:27
+Last Update: 2023-09-04 08:29
