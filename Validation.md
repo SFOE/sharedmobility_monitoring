@@ -20,7 +20,7 @@
 - [![Dokumentation](https://badgen.net/badge/bird-platform-partner-jmfleetswl-biel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-platform-partner-jmfleetswl-biel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bird-zurich/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-zurich/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_le_locle/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_le_locle/gbfs)
-- [![Dokumentation](https://badgen.net/badge/share_birrer_ch/6.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/share_birrer_ch/gbfs)
+- [![Dokumentation](https://badgen.net/badge/share_birrer_ch/3.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/share_birrer_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_yverdon-les-bains/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_yverdon-les-bains/gbfs)
 - [![Dokumentation](https://badgen.net/badge/velospot/26.0%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs)
 - [![Dokumentation](https://badgen.net/badge/2em_cars/nan%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs)
@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-biel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-biel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bolt_basel/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_basel/gbfs)
  
-Last Update: 2023-09-16 08:26
+Last Update: 2023-09-17 08:26
