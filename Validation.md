@@ -36,4 +36,4 @@
 - [![Dokumentation](https://badgen.net/badge/bolt_winterthur/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_winterthur/gbfs)
 - [![Dokumentation](https://badgen.net/badge/voiscooters.com/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/voiscooters.com/gbfs)
  
-Last Update: 2023-10-03 08:29
+Last Update: 2023-10-04 08:30
