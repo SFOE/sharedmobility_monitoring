@@ -42,4 +42,4 @@
 - [![Dokumentation](https://badgen.net/badge/voiscooters.com/0.0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/voiscooters.com/gbfs)
 - [![Dokumentation](https://badgen.net/badge/bird-basel/nan%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs)
  
-Last Update: 2023-10-26 08:29
+Last Update: 2023-10-27 08:44
