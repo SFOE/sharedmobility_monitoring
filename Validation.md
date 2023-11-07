@@ -8,7 +8,7 @@
 - [![Dokumentation](https://badgen.net/badge/pickebike_basel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_neuchatel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_neuchatel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_uster/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_uster/gbfs)
-- [![Dokumentation](https://badgen.net/badge/nextbike_ch/300%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs)
+- [![Dokumentation](https://badgen.net/badge/nextbike_ch/301%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_basel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/lime_wetzikon/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_wetzikon/gbfs)
@@ -20,7 +20,7 @@
 - [![Dokumentation](https://badgen.net/badge/donkey_le_locle/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_le_locle/gbfs)
 - [![Dokumentation](https://badgen.net/badge/share_birrer_ch/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/share_birrer_ch/gbfs)
 - [![Dokumentation](https://badgen.net/badge/donkey_yverdon-les-bains/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_yverdon-les-bains/gbfs)
-- [![Dokumentation](https://badgen.net/badge/velospot/10%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs)
+- [![Dokumentation](https://badgen.net/badge/velospot/11%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs)
 - [![Dokumentation](https://badgen.net/badge/mobility/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/mobility/gbfs)
 - [![Dokumentation](https://badgen.net/badge/edrivecarsharing/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/edrivecarsharing/gbfs)
 - [![Dokumentation](https://badgen.net/badge/liemobil_liechtenstein/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/liemobil_liechtenstein/gbfs)
@@ -43,4 +43,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-basel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs)
 - [![Dokumentation](https://badgen.net/badge/publibike/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/publibike/gbfs)
  
-Last Update: 2023-11-06 07:39
+Last Update: 2023-11-07 07:39
