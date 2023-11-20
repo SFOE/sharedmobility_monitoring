@@ -18,8 +18,9 @@ import json
 import pytz
 
 # GBFS Feeds abfragen
-url = 'https://gbfs.prod.sharedmobility.ch/v2/gbfs'
-feeds = requests.get(url).json()
+url = 'https://sharedmobility.ch/v2/gbfs'
+header = {"Authorization":"geoinformation@bfe.admin.ch"}
+feeds = requests.get(url, headers=header).json()
 
 # Alle GBFS Feeds als Dataframe laden
 id = [s['id'] for s in feeds['systems']]
@@ -39,7 +40,7 @@ for provider in providers:
       }
 
       json_data = {
-          'url': 'https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ provider +'/gbfs',
+          'url': 'https://sharedmobility.ch/v2/gbfs/'+ provider +'/gbfs',
           'options': {
               'freefloating': False,
               'docked': False,
