@@ -38,7 +38,7 @@ NumberOfStationsList = []
 
 for provider in providers:
   try:
-      stationstatus = requests.get('https://sharedmobility.ch/v2/gbfs/' + provider +'/station_status').json()
+      stationstatus = requests.get('https://sharedmobility.ch/v2/gbfs/' + provider +'/station_status',headers=header).json()
       stationstatus = [s['num_bikes_available'] for s in stationstatus['data']['stations']]
       VehiclesInStationList.append(sum(stationstatus))
       NumberOfStationsList.append(len(stationstatus))
@@ -58,7 +58,7 @@ FreeBikeList = []
 
 for provider in providers:
   try:
-      freebikesstatus = requests.get('https://sharedmobility.ch/v2/gbfs/' + provider +'/free_bike_status').json()
+      freebikesstatus = requests.get('https://sharedmobility.ch/v2/gbfs/' + provider +'/free_bike_status',headers=header).json()
       freebikesstatus = [s['bike_id'] for s in freebikesstatus['data']['bikes']]
       FreeBikeList.append(len(freebikesstatus))
       providerList.append(provider)
