@@ -37,10 +37,11 @@ for provider in providers:
           'accept': '*/*',
           'Content-Type': 'application/json',
           'User-Agent': 'geoinformation@bfe.admin.ch',
+          'Authorization': 'geoinformation@bfe.admin.ch',
       }
 
       json_data = {
-          'url': 'https://sharedmobility.ch/v2/gbfs/'+ provider +'/gbfs',
+          'url': 'https://sharedmobility.ch/v2/gbfs/'+ provider +'/gbfs?Authorization=geoinformation@bfe.admin.ch',
           'options': {
               'freefloating': False,
               'docked': False,
@@ -72,7 +73,7 @@ for provider in providers:
 #Dataframe mit Resultaten bearbeiten
 ValidationResults = pd.json_normalize(JsonResponse)
 ValidationResults['provider'] = providers
-ValidationResults['Validator'] = 'https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ ValidationResults['provider']+'/gbfs'
+ValidationResults['Validator'] = 'https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ ValidationResults['provider']+'/gbfs?Authorization=geoinformation@bfe.admin.ch'
 
 # Add Timestamp
 ValidationDatum = datetime.today()
