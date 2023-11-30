@@ -43,4 +43,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-basel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/publibike/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/publibike/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2023-11-29 07:39
+Last Update: 2023-11-30 07:40
