@@ -1,5 +1,4 @@
 # Validation of all GBFS-Feeds
-- [![Dokumentation](https://badgen.net/badge/sponticar/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/sponticar/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/bird-kloten/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-kloten/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_winterthur/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_winterthur/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_opfikon/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_opfikon/gbfs?Authorization=geoinformation@bfe.admin.ch)
@@ -43,4 +42,4 @@
 - [![Dokumentation](https://badgen.net/badge/bird-basel/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/publibike/0%20errors/green?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/publibike/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2024-01-18 07:40
+Last Update: 2024-01-19 07:40
