@@ -42,4 +42,4 @@
 - [![Dokumentation](https://badgen.net/badge/publibike/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/publibike/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_zurich/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_zurich/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2024-04-06 08:36
+Last Update: 2024-04-07 08:35
