@@ -40,4 +40,4 @@
 - [![Dokumentation](https://badgen.net/badge/lime_zurich/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_zurich/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/tier_zurich/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/tier_zurich/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2024-06-01 08:39
+Last Update: 2024-06-02 08:41
