@@ -3,7 +3,7 @@ name: sharedmobility_validation
 on: 
   workflow_dispatch:
   schedule:
-    - cron: "15 6 * * *" #runs at 06:15 UTC
+    - cron: "16 6 * * *" #runs at 06:15 UTC
 
 permissions:
   contents: write
