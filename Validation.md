@@ -8,7 +8,6 @@
 - [![Dokumentation](https://badgen.net/badge/lime_winterthur/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_winterthur/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_zurich/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_zurich/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_opfikon/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_opfikon/gbfs?Authorization=geoinformation@bfe.admin.ch)
-- [![Dokumentation](https://badgen.net/badge/tier_rotkreuz/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/tier_rotkreuz/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_uster/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_uster/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/donkey_thun/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_thun/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/nextbike_ch/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ch/gbfs?Authorization=geoinformation@bfe.admin.ch)
@@ -40,4 +39,4 @@
 - [![Dokumentation](https://badgen.net/badge/pickebike_fribourg/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_fribourg/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2024-07-01 08:36
+Last Update: 2024-07-02 08:35
