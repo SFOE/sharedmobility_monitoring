@@ -36,7 +36,7 @@
 - [![Dokumentation](https://badgen.net/badge/edrivecarsharing/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/edrivecarsharing/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/tier_stgallen/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/tier_stgallen/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/pickebike_basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
-- [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/pickebike_fribourg/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_fribourg/gbfs?Authorization=geoinformation@bfe.admin.ch)
+- [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2024-07-08 08:35
+Last Update: 2024-07-09 08:38
