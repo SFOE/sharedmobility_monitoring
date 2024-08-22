@@ -73,7 +73,8 @@ for provider in providers:
 #Dataframe mit Resultaten bearbeiten
 ValidationResults = pd.json_normalize(JsonResponse)
 ValidationResults['provider'] = providers
-ValidationResults['Validator'] = 'https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ ValidationResults['provider']+'/gbfs?Authorization=geoinformation@bfe.admin.ch'
+#ValidationResults['Validator'] = 'https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ ValidationResults['provider']+'/gbfs?Authorization=geoinformation@bfe.admin.ch'
+ValidationResults['Validator'] = 'https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/'+ ValidationResults['provider'].astype(str)+'/gbfs?Authorization=geoinformation@bfe.admin.ch'
 
 # Add Timestamp
 ValidationDatum = datetime.today()
