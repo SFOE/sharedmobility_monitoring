@@ -1,4 +1,4 @@
-name: sharedmobility_monitoring 
+name: sharedmobility_monitoring
 
 on: 
   workflow_dispatch:
