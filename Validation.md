@@ -1,6 +1,5 @@
 # Validation of all GBFS-Feeds
 - [![Dokumentation](https://badgen.net/badge/bird-basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
-- [![Dokumentation](https://badgen.net/badge/velospot/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/donkey_yverdon-les-bains/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_yverdon-les-bains/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/share_birrer_ch/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/share_birrer_ch/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/voiscooters.com/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/voiscooters.com/gbfs?Authorization=geoinformation@bfe.admin.ch)
@@ -31,7 +30,6 @@
 - [![Dokumentation](https://badgen.net/badge/pickebike_fribourg/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_fribourg/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/bolt_basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bolt_basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
-- [![Dokumentation](https://badgen.net/badge/carvelo2go/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/carvelo2go/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/2em_cars/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-03-05 07:41
+Last Update: 2025-03-06 07:41
