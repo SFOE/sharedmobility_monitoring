@@ -33,4 +33,4 @@
 - [![Dokumentation](https://badgen.net/badge/2em_cars/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/carvelo2go/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/carvelo2go/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-03-21 07:42
+Last Update: 2025-03-22 07:38
