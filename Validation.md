@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/carvelo2go/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/carvelo2go/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/velospot/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-04-05 08:39
+Last Update: 2025-04-06 08:41
