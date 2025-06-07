@@ -32,4 +32,4 @@
 - [![Dokumentation](https://badgen.net/badge/2em_cars/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/bird-basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-06-06 08:47
+Last Update: 2025-06-07 08:42
