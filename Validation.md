@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/publibike/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/publibike/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/velospot/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/velospot/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-07-03 08:47
+Last Update: 2025-07-04 08:47
