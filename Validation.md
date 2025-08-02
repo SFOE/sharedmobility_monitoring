@@ -34,4 +34,4 @@
 - [![Dokumentation](https://badgen.net/badge/pickebike_aubonne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_aubonne/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/pickebike_fribourg/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/pickebike_fribourg/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-08-01 08:52
+Last Update: 2025-08-02 08:46
