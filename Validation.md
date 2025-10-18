@@ -37,5 +37,6 @@
 - [![Dokumentation](https://badgen.net/badge/bird-winterthur/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/bird-winterthur/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/nextbike_ms/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/nextbike_ms/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/donkey_le_locle/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_le_locle/gbfs?Authorization=geoinformation@bfe.admin.ch)
+- [![Dokumentation](https://badgen.net/badge/mybuxi_ch/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/mybuxi_ch/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-10-17 08:43
+Last Update: 2025-10-18 08:41
