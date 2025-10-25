@@ -39,4 +39,4 @@
 - [![Dokumentation](https://badgen.net/badge/donkey_le_locle/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_le_locle/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/mybuxi_ch/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/mybuxi_ch/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-10-24 08:44
+Last Update: 2025-10-25 08:41
