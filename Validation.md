@@ -40,4 +40,4 @@
 - [![Dokumentation](https://badgen.net/badge/mybuxi_ch/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/mybuxi_ch/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/sponti/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/sponti/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2025-12-07 07:44
+Last Update: 2025-12-08 07:51
