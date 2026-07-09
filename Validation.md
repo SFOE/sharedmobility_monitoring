@@ -45,4 +45,4 @@
 - [![Dokumentation](https://badgen.net/badge/dott_romanshorn/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_romanshorn/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/dott_st-gallen/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_st-gallen/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2026-07-08 10:45
+Last Update: 2026-07-09 11:59
