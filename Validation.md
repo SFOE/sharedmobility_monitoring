@@ -46,4 +46,4 @@
 - [![Dokumentation](https://badgen.net/badge/sponti/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/sponti/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/epfl_lausanne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/epfl_lausanne/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2026-10-06 15:22
+Last Update: 2026-10-07 15:30
