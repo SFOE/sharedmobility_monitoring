@@ -19,8 +19,8 @@
 - [![Dokumentation](https://badgen.net/badge/lime_opfikon/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_opfikon/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/donkey_yverdon-les-bains/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_yverdon-les-bains/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/donkey_thun/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/donkey_thun/gbfs?Authorization=geoinformation@bfe.admin.ch)
-- [![Dokumentation](https://badgen.net/badge/dott_basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/dott_rorschach/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_rorschach/gbfs?Authorization=geoinformation@bfe.admin.ch)
+- [![Dokumentation](https://badgen.net/badge/dott_basel/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_basel/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/dott_romanshorn/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/dott_romanshorn/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/lime_wetzikon/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_wetzikon/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/liemobil_liechtenstein/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/liemobil_liechtenstein/gbfs?Authorization=geoinformation@bfe.admin.ch)
@@ -46,4 +46,4 @@
 - [![Dokumentation](https://badgen.net/badge/sponti/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/sponti/gbfs?Authorization=geoinformation@bfe.admin.ch)
 - [![Dokumentation](https://badgen.net/badge/epfl_lausanne/1%20errors/red?icon=github)](https://gbfs-validator.netlify.app/validator?url=https://gbfs.prod.sharedmobility.ch/v2/gbfs/epfl_lausanne/gbfs?Authorization=geoinformation@bfe.admin.ch)
  
-Last Update: 2026-11-10 15:58
+Last Update: 2026-11-11 15:28
